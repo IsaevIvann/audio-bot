@@ -1,0 +1,3 @@
+BOT_TOKEN = "7633983919:AAFOOCXQTDA5vdkJz3GnEcWsPKUx85YIcm0"
+AUDIO_DIR = "audio"
+DB_FILE = "database.json"
