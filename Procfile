@@ -1,1 +1,1 @@
-worker: python audio/bot.py
+worker: python bot.py
